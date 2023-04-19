@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10;
+    
+    
+  }
+  .div_mae {
+    display:grid;
+    align-content:center;
+    align-items: center;
+    justify-content:center;
+    }
+    
+  
+  h3 {
+    text-align: center;
+  }
+  .caixa {
+    border: 5px solid #1f2a63;
+    background-color: #1f2a63;
+    color: rgb(235, 228, 228);
+    
+    }
+  
+  figure.polaroid {
+    text-align: center;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.5);
+    
+  }
+
+  figure>figcaption {
+    padding: 10px;
+    text-align: center;
+  }
+
+  img{
+    width: 100%;
+    text-align: center;
+  }
+  .caixa1 {
+    border: 1px solid #8287a0;
+    background-color: #e2e4da;
+    color: rgb(0, 0, 0);
+   
+    }
+  
